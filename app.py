@@ -10,7 +10,7 @@ def home():
 
 @app.route("/index")
 def index():
-    return "hello world!"
+    return "hello!"
 
 
 if __name__ == '__main__':
